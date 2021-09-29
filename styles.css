@@ -1,0 +1,58 @@
+body{margin: 0 0;
+    
+}
+main{ margin: auto 22%; 
+font-size: 16px;
+font-family: 'Mandali', sans-serif;
+}
+
+header{background-image: url(anakin.png);
+    background-size: cover;
+}
+
+#header{
+    padding-top: 20%;
+    margin-left: 22%;
+    padding-right: 22%;
+    font-size: 200%;
+    font-family: 'Gravitas One', cursive;
+}
+#anakin{
+    margin: auto 22%;
+    font-size: 320%;
+    font-family: 'Gravitas One', cursive;
+    padding-bottom: 4%;
+
+}
+
+blockquote {
+    background-color: rgb(80, 80, 80);
+    color: white;
+    font-family: 'Gravitas One', cursive;
+    padding-left: 0%;
+    padding-top: 7%;
+    font-size: 300%;
+    margin-left: -15%;
+    margin-right: -15%;
+}
+blockquote:before {
+    color: white;
+    content: open-quote;
+    font-size: 150%;
+    line-height: 0;
+    margin-right: 0.25em; 
+    background-color: rgb(80, 80, 80);
+    padding-top: 0%;
+  }
+  h1, #h3{
+      font-size: 30px;
+      font-weight: 600;
+  }
+  h2, h3{font-family: 'Catamaran', sans-serif;
+font-weight: 600;}
+h3{font-style: italic;}
+#h3{
+    border-top-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
